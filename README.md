@@ -10,4 +10,9 @@ FullStack Developer <br>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I´m a drummer! 🥁 
 
+You can see some projects that i´ve worked here! 🔽👇
+
+[Standar Aridos](https://standararidos.com/)
+
+[WikiCountries App](https://wikicountriesapp.vercel.app/)
 
