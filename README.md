@@ -1,6 +1,6 @@
 ### Hi! I´m Lucas Cencig!👋
 
-Full Stack Developer <br>
+FullStack Developer <br>
 (Specialized in Front-End)
 
 - 🌱 I’m currently learning ...
