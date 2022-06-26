@@ -1,11 +1,10 @@
 ### Hi! I´m Lucas Cencig!👋
 
-Full Stack Developer
-
+Full Stack Developer <br>
+(Specialized in Front-End)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on new side projects!
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about web development (Front-End && Back-End)
 - 📫 How to reach me on 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-cencig-aa4a001b6/)
 - 😄 Pronouns: He/Him
