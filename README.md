@@ -3,7 +3,7 @@
 FullStack Developer <br>
 (Specialized in Front-End)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning everything, but most, my favourite framework:  ReactJs ...
 - 👯 I’m looking to collaborate on new side projects!
 - 💬 Ask me about web development (Front-End && Back-End)
 - 📫 How to reach me on 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-cencig-aa4a001b6/)
