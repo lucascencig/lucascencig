@@ -34,7 +34,11 @@ You can see some projects that i´ve worked here! 🔽👇
 <br>
 
 
-[Standar Aridos](https://standararidos.com/)
+[Standar Aridos](https://standararidos.com/)<br>
+![img](https://i.postimg.cc/153LQ9qT/standarfoto.jpg)
 
-[WikiCountries App](https://wikicountriesapp.vercel.app/)
+[WikiCountries App](https://wikicountriesapp.vercel.app/)<br>
+![img](https://i.postimg.cc/wxGk1Hrn/countriesfoto.jpg)
 
+[Henry Club](https://club-henry.vercel.app/)<br>
+![img](https://i.postimg.cc/6qbtCcSL/clubfoto.jpg)
