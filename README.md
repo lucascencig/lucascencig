@@ -36,7 +36,10 @@ I have successfully passed a bootcamp called <u>"I am Henry"</u> at
           My mentality is "always keep learning", not to let a day go by
           without learning something new and being able to advance in the quality of the sites
           websites I make, providing greater customer satisfaction.
+          
+        
 <br>
+  <hr/>
 <br>
 ¿My Skills?
 
