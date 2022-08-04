@@ -21,7 +21,7 @@ Some time ago, the creativity that Web developers
           been specializing and adapting to the most current styles on the market,
           in order to capture the interest of a larger volume of customers.
 
-I have successfully passed a bootcamp called <u>"I am Henry"</u> at
+I have successfully passed a bootcamp called <u>"Soy Henry"</u> at
           full-time level, developing as a Full Stack Developer, performing
           both individual and group projects which gave me the
           skills and knowledge to perform work of all kinds,
