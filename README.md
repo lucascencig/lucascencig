@@ -43,7 +43,7 @@ I have successfully passed a bootcamp called <u>"Soy Henry"</u> at
 <br>
 ¿My Skills?
 
-![img](https://i.postimg.cc/8PyRv49s/js.jpg)
+![img](https://postimg.cc/qgs8nC5j)
 ![img](https://i.postimg.cc/5060Z5pK/react.jpg)
 ![img](https://i.postimg.cc/9MRmxmFv/redux.jpg)
 ![img](https://i.postimg.cc/tg7kmw0K/Html.jpg)
