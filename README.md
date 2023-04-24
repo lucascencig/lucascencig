@@ -55,7 +55,7 @@ I have successfully passed a bootcamp called <u>"Soy Henry"</u> at
 
 
 For privacy reasons, there are projects / repositories that cannot be shown, but I have attached a screenshot to see the work that was done.
-![img](https://i.postimg.cc/63Vtrj5C/github.jpg)
+![img](https://i.postimg.cc/GpRC9Gv4/githubb.jpg)
 
 <br>
 <br>
