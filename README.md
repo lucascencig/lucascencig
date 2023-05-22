@@ -53,8 +53,11 @@ I have successfully passed a bootcamp called <u>"Soy Henry"</u> at
 ![img](https://i.postimg.cc/NGPg3rrZ/Psql.jpg)
 ![img](https://i.postimg.cc/HsFHvD7M/git.jpg)
 
+<br>
+<br>
+<br>
+<b>For privacy reasons, there are projects / repositories that cannot be shown, but I have attached a screenshot to see the work that was done. </b>
 
-For privacy reasons, there are projects / repositories that cannot be shown, but I have attached a screenshot to see the work that was done.
 ![img](https://i.postimg.cc/3NNy6PRQ/githubbb.jpg)
 
 <br>
