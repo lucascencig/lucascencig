@@ -5,6 +5,8 @@
 FullStack Developer <br>
 (Specialized in Front-End)
 
+- <b>YOU CAN SEE MORE ABOUT ME IN MY PORTFOLIO!! </b> [PORTFOLIO](https://portafolios2023a.vercel.app/)
+
 - 🌱 I’m currently learning everything, but most, my favourite framework:  ReactJs ...
 - 👯 I’m looking to collaborate on new side projects!
 - 💬 Ask me about web development (Front-End && Back-End)
@@ -56,9 +58,9 @@ I have successfully passed a bootcamp called <u>"Soy Henry"</u> at
 <br>
 <br>
 <br>
-<b>For privacy reasons, there are projects / repositories that cannot be shown, but I have attached a screenshot to see the work that was done. </b>
+<b>For privacy reasons, there are projects / repositories that cannot be shown, but I have attached a screenshot to see the work that was done between November 2022 and April 2023 </b>
 
-![img](https://i.postimg.cc/3NNy6PRQ/githubbb.jpg)
+![img](https://i.postimg.cc/TYHRTb2G/commits.jpg)
 
 <br>
 <br>
@@ -67,14 +69,21 @@ I have successfully passed a bootcamp called <u>"Soy Henry"</u> at
 You can see some projects that i´ve worked here! 🔽👇
 <br>
 
+[Mtp-pro](https://www.mailtrackpro.com/)<br>
+![img](https://i.postimg.cc/d1cfBH5n/mtpPro.jpg)<br>
+
+
 [Henry Club](https://club-henry.vercel.app/)<br>
 ![img](https://i.postimg.cc/6qbtCcSL/clubfoto.jpg)<br>
 You can see the repository of this project [here!](https://github.com/matias183/FrontHenryClub)
 
 
 [WikiCountries App](https://wikicountriesapp.vercel.app/)<br>
-![img](https://i.postimg.cc/wxGk1Hrn/countriesfoto.jpg)
+![img](https://i.postimg.cc/Vv8cJLyf/tateti.jpg)
 
 
 [Standar Aridos](https://standararidos.com/)<br>
-![img](https://i.postimg.cc/153LQ9qT/standarfoto.jpg)
+![img](https://i.postimg.cc/y8dCgbGZ/standar-Aridos.jpg)
+
+
+-<b>ARE YOU INTERESTED ABOUT ME? YOU NEED TO SEE MORE? VISIT MY PORTFOLIO HERE! ---></b> [PORTFOLIO](https://portafolios2023a.vercel.app/)
