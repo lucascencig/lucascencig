@@ -5,7 +5,7 @@
 FullStack Developer <br>
 (Specialized in Front-End)
 
-- <b>YOU CAN SEE MORE ABOUT ME IN MY PORTFOLIO!! </b> [PORTFOLIO](https://portafolios2023a.vercel.app/)
+- <b>YOU CAN SEE MORE ABOUT ME IN MY PORTFOLIO!! </b> [PORTFOLIO](https://lucas-cencig-porfolio-2024-one.vercel.app/)
 
 - 🌱 I’m currently learning everything, but most, my favourite framework:  ReactJs ...
 - 👯 I’m looking to collaborate on new side projects!
