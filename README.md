@@ -1,5 +1,5 @@
 
-![img](https://files.fm/u/thmydg665s)
+![img]([https://files.fm/u/thmydg665s](https://i.postimg.cc/LXYnYWLn/fot.jpg))
 ### Hi! I´m Lucas Cencig!👋
 
 FullStack Developer <br>
