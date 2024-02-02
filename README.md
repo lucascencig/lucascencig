@@ -1,5 +1,5 @@
 
-![img]([https://i.postimg.cc/8PzNH7hX/Lucas-Cencig-fullstack-developer-specialized-in-front-end.jpg](https://files.fm/u/thmydg665s))
+![img](https://files.fm/u/thmydg665s)
 ### Hi! I´m Lucas Cencig!👋
 
 FullStack Developer <br>
