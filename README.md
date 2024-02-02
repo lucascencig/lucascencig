@@ -44,17 +44,23 @@ I have successfully passed a bootcamp called <u>"Soy Henry"</u> at
   <hr/>
 <br>
 ¿My Skills?
-
-![img](https://i.postimg.cc/pTGJx3xr/html.png)
-![img](https://i.postimg.cc/5060Z5pK/react.jpg)
-![img](https://i.postimg.cc/9MRmxmFv/redux.jpg)
-![img](https://i.postimg.cc/tg7kmw0K/Html.jpg)
-![img](https://i.postimg.cc/WbjnPhL6/Css.png)
-![img](https://i.postimg.cc/pLmnNHTJ/Node.jpg)
-![img](https://i.postimg.cc/TY4pJ49L/Express.jpg)
-![img](https://i.postimg.cc/NGPg3rrZ/Psql.jpg)
-![img](https://i.postimg.cc/HsFHvD7M/git.jpg)
-
+- JavaScript
+- React.js
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+- Sass
+- Vite
+- Redux
+- Node.js
+- Express
+- MongoDb
+- Sequelize
+- SQL
+- PostgreSQL
+- Firebase
+- Socket.io
 <br>
 <br>
 <br>
@@ -70,20 +76,20 @@ You can see some projects that i´ve worked here! 🔽👇
 <br>
 
 [Mtp-pro](https://www.mailtrackpro.com/)<br>
-![img](https://i.postimg.cc/d1cfBH5n/mtpPro.jpg)<br>
+![img](https://i.postimg.cc/yNBrQqvS/mtp1.png)<br>
 
 
-[Chat online]()<br>
+[Chat online](https://chat-online-blue.vercel.app/)<br>
 ![img](https://i.postimg.cc/3J7f1QN5/chatt1.png)<br>
-You can see the repository of this project [here!](https://github.com/matias183/FrontHenryClub)
+You can see the repository of this project [here!](https://chat-online-blue.vercel.app/)
 
 
-[WikiCountries App](https://wikicountriesapp.vercel.app/)<br>
-![img](https://i.postimg.cc/Vv8cJLyf/tateti.jpg)
+[News Letters](https://newsletter-sing-up-nu.vercel.app/)<br>
+![img](https://i.postimg.cc/Hk3Lnmcp/newsletters1.png)
 
 
-[Standar Aridos](https://standararidos.com/)<br>
-![img](https://i.postimg.cc/y8dCgbGZ/standar-Aridos.jpg)
+[Tic-Tae-Toe / TA-TE-TI](https://tateti-ten.vercel.app/)<br>
+![img](https://i.postimg.cc/gJGFZXfQ/tateti1.png)
 
 
 -<b>ARE YOU INTERESTED ABOUT ME? YOU NEED TO SEE MORE? VISIT MY PORTFOLIO HERE! ---></b> [PORTFOLIO](https://portafolios2023a.vercel.app/)
