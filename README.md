@@ -92,4 +92,4 @@ You can see the repository of this project [here!](https://chat-online-blue.verc
 ![img](https://i.postimg.cc/gJGFZXfQ/tateti1.png)
 
 
--<b>ARE YOU INTERESTED ABOUT ME? YOU NEED TO SEE MORE? VISIT MY PORTFOLIO HERE! ---></b> [PORTFOLIO](https://portafolios2023a.vercel.app/)
+-<b>ARE YOU INTERESTED ABOUT ME? YOU NEED TO SEE MORE? VISIT MY PORTFOLIO HERE! ---></b> [PORTFOLIO](https://lucas-cencig-porfolio-2024-one.vercel.app/)
