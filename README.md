@@ -5,7 +5,7 @@
 FullStack Developer <br>
 (Specialized in Front-End)
 
-- <b>YOU CAN SEE MORE ABOUT ME IN MY PORTFOLIO!! </b> [PORTFOLIO](https://lucas-cencig-porfolio-2024-one.vercel.app/)
+- <b>YOU CAN SEE MORE ABOUT ME IN MY PORTFOLIO!! </b> [PORTFOLIO](https://porfolio-2024.vercel.app/)
 
 - 🌱 My favourite framework:  React.Js
 - 👯 I’m looking to collaborate on new side projects!
@@ -92,4 +92,4 @@ You can see the repository of this project [here!](https://chat-online-blue.verc
 ![img](https://i.postimg.cc/gJGFZXfQ/tateti1.png)
 
 
--<b>ARE YOU INTERESTED ABOUT ME? YOU NEED TO SEE MORE? VISIT MY PORTFOLIO HERE! ---></b> [PORTFOLIO](https://lucas-cencig-porfolio-2024-one.vercel.app/)
+-<b>ARE YOU INTERESTED ABOUT ME? YOU NEED TO SEE MORE? VISIT MY PORTFOLIO HERE! ---></b> [PORTFOLIO](https://porfolio-2024.vercel.app/)
