@@ -68,28 +68,6 @@ I have successfully passed a bootcamp called <u>"Soy Henry"</u> at
 
 ![img](https://i.postimg.cc/TYHRTb2G/commits.jpg)
 
-<br>
-<br>
-
-
-You can see some projects that i´ve worked here! 🔽👇
-<br>
-
-[Mtp-pro](https://www.mailtrackpro.com/)<br>
-![img](https://i.postimg.cc/yNBrQqvS/mtp1.png)<br>
-
-
-[Chat online](https://chat-online-blue.vercel.app/)<br>
-![img](https://i.postimg.cc/3J7f1QN5/chatt1.png)<br>
-You can see the repository of this project [here!](https://chat-online-blue.vercel.app/)
-
-
-[News Letters](https://newsletter-sing-up-nu.vercel.app/)<br>
-![img](https://i.postimg.cc/Hk3Lnmcp/newsletters1.png)
-
-
-[Tic-Tae-Toe / TA-TE-TI](https://tateti-ten.vercel.app/)<br>
-![img](https://i.postimg.cc/gJGFZXfQ/tateti1.png)
 
 
 -<b>ARE YOU INTERESTED ABOUT ME? YOU NEED TO SEE MORE? VISIT MY PORTFOLIO HERE! ---></b> [PORTFOLIO](https://porfolio-2024.vercel.app/)
